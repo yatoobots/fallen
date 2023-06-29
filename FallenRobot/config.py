@@ -7,8 +7,6 @@ class Config(object):
 
     CASH_API_KEY = "YATOO100"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "mongodb+srv://Yatoo99:Yatoo99@cluster0.3gj7zms.mongodb.net/?retryWrites=true&w=majority"  # A sql database url from elephantsql.com
-
     EVENT_LOGS = (-1001960381008)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://Yatoo99:Yatoo99@cluster0.3gj7zms.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
