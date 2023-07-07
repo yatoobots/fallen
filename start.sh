@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 app.py & bash start
+python3 app.py & python3 -m FallenRobot
