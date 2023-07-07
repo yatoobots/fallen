@@ -45,4 +45,3 @@ tgcrypto==1.2.5
 wikipedia==1.4.0
 flask
 gunicorn
-flask_restful
